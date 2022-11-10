@@ -27,6 +27,7 @@ public class CoursTest {
     int idprof;
     
     public CoursTest() {
+        System.out.println("je suis une modif");
     }
     
     @BeforeClass
