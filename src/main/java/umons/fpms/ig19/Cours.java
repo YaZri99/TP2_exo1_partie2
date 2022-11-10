@@ -25,6 +25,7 @@ public class Cours {
         this.intitule = intitule;
         this.duree = duree;
         this.prof = prof;
+        System.out.println("je suis là");
     }
 
     public Cours(String intitule, String duree) {
